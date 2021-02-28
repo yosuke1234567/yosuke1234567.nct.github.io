@@ -13,7 +13,7 @@ footer {
 
 /* ファーストビューを画面いっぱいにする */
 .top {
-    background-image: url(../images/first_view.jpg);
+    background-image: url(first_view.jpg);
     background-repeat: no-repeat;
     align-items: center;
     background-position: 45% 63%;
